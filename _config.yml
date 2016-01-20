@@ -1,0 +1,28 @@
+name: MattBero
+favicon: null
+layout_spectrum: 0.10508495313115418
+typography_spectrum: 0.22041693329811096
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.6398485235404223
+  lightness: 0.9820659377146512
+  saturation: 0.28154101595282555
+  rhythmicContrast: 0.8527365426998585
+purpose: []
